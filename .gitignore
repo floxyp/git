@@ -1,0 +1,6 @@
+password.txt
+node_modules
+#This is a comment
+#wide card
+*.log
+index.*
