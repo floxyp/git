@@ -4,3 +4,4 @@ node_modules
 #wide card
 *.log
 index.*
+secret.*
